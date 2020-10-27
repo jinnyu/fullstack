@@ -2489,7 +2489,7 @@ graphql-upload@^8.0.2:
     busboy "^0.3.1"
     fs-capacitor "^2.0.1"
     http-errors "^1.7.2"
-    object-path "^0.11.4"
+    object-path "~> 0.11.5"
 
 graphql@^14.3.1:
   version "14.3.1"
